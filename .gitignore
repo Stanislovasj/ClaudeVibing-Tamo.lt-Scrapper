@@ -1,0 +1,6 @@
+# Realūs Tamo prisijungimo duomenys - NIEKADA nekelti į git.
+src/config.php
+
+# OS/IDE šiukšlės
+.DS_Store
+Thumbs.db
